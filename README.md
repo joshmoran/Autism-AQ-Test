@@ -1,1 +1,1 @@
-"# Autism-AQ-Test" 
+# Autism-AQ-Test

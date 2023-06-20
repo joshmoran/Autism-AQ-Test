@@ -1,0 +1,11 @@
+* MEANS 
+	TRUE NOW AND THEN 			=				0
+	NEVER TRUE					=				3
+NO * MEANS 
+	TRUE NOW AND THEN 			= 				3
+	NEVER GTRUE 				=				0
+
+
+
+	QUESTION 50
+	1140

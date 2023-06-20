@@ -1,0 +1,20 @@
+table,
+td,
+th {
+    border: 2px solid black;
+}
+
+td>label {
+    width: max-content / 2;
+    display: block
+}
+
+tr:nth-col(0) {
+    width: auto;
+}
+
+tr input {
+    display: block;
+
+    margin: auto;
+}
